@@ -28,4 +28,5 @@ int main()
     int ans = minEatingSpeed(v, h);
     cout << "Koko should eat atleast " << ans << " bananas/hr.\n";
     return 0;
+
 }
