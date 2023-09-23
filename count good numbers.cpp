@@ -27,7 +27,7 @@ int main()
     
     long long ans = countGoodNumbers(n);
     
-    cout << ans << endl;
+    cout << ans << "\n";
 
     return 0;
 }
